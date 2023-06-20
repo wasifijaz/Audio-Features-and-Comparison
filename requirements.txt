@@ -1,0 +1,10 @@
+sklearn
+numba==0.56.4
+numpy==1.21.6
+essentia
+librosa==0.8.1
+Flask==1.1.2
+Flask-Cors==3.0.10
+pymysql
+asyncio
+python-dotenv
